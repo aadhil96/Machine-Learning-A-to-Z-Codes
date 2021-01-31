@@ -3,13 +3,13 @@ Repository which consists different code snippets and projects for recorded ever
 
 Contains the code and implementation of the following topics and techniques:
 
-1.Data Preprocessing
+#### 1.Data Preprocessing
 - Importing the dataset
 - Dealing with missing data
 - Splitting the data into test set and training set
 - Feature Scalling
 
-2.Regression
+#### 2.Regression
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Linear Regression
@@ -17,7 +17,7 @@ Contains the code and implementation of the following topics and techniques:
 - Decision Tree Regression
 - Random Forest Regression
 
-3.Classification
+#### 3.Classification
 -Logistic Regression
 -K-Nearest Neighbors (K-NN)
 -Support Vector Machine (SVM)
@@ -26,9 +26,15 @@ Contains the code and implementation of the following topics and techniques:
 -Decision Tree Classifiers
 -Random Forest Classifiers
 
-4.Clustering
+#### 4.Clustering
 -K-Means Clustering
 -Hierarchical Clustering
 
-5.Association Rule Learning
+#### 5.Association Rule Learning
 -Apriori
+
+#### 6.Reinforcement Learning
+
+#### 7.Dimensionality Reduction
+-PCA
+-Kernal PCA
