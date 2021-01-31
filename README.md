@@ -2,6 +2,7 @@
 Repository which consists different code snippets and projects for recorded every machine-learning algorithm i have learned by my self leaning python code for each algorithm.
 
 Contains the code and implementation of the following topics and techniques:
+
 1.Data Preprocessing
 - Importing the dataset
 - Dealing with missing data
