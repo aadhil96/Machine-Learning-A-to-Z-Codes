@@ -2,36 +2,32 @@
 Repository which consists different code snippets and projects for recorded every machine-learning algorithm i have learned by my self leaning python code for each algorithm.
 
 Contains the code and implementation of the following topics and techniques:
-- Data Preprocessing
-1. Importing the dataset
-Dealing with missing data
-Splitting the data into test set and training set
-Feature Scalling
-Regression
+1.Data Preprocessing
+- Importing the dataset
+- Dealing with missing data
+- Splitting the data into test set and training set
+- Feature Scalling
 
-Simple Linear Regression
-Multiple Linear Regression
-Polynomial Linear Regression
-Support Vector Regression (SVR)
-Decision Tree Regression
-Random Forest Regression
-Classification
+2.Regression
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Linear Regression
+- Support Vector Regression (SVR)
+- Decision Tree Regression
+- Random Forest Regression
 
-Logistic Regression
-K-Nearest Neighbors (K-NN)
-Support Vector Machine (SVM)
-Kernel SVM
-Naive Bayse
-Decision Tree Classifiers
-Random Forest Classifiers
-Clustering
+3.Classification
+-Logistic Regression
+-K-Nearest Neighbors (K-NN)
+-Support Vector Machine (SVM)
+-Kernel SVM
+-Naive Bayse
+-Decision Tree Classifiers
+-Random Forest Classifiers
 
-K-Means Clustering
-Hierarchical Clustering
-Association Rule Learning
+4.Clustering
+-K-Means Clustering
+-Hierarchical Clustering
 
-Apriori
-Deep Learning
-
-Artifial Neural Networks (ANN)
-Convolutional Neural Networks (CNN)
+5.Association Rule Learning
+-Apriori
